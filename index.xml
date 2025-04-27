@@ -9,7 +9,18 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>DeepBreath: Breathing Exercise Assessment with a Depth Camera</title><link>https://ericxuchi.github.io/publication/deepbreath_xie_2024/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://ericxuchi.github.io/publication/deepbreath_xie_2024/</guid><description>&lt;!--
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones</title><link>https://ericxuchi.github.io/publication/easyspiro_xu_2025/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://ericxuchi.github.io/publication/easyspiro_xu_2025/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>DeepBreath: Breathing Exercise Assessment with a Depth Camera</title><link>https://ericxuchi.github.io/publication/deepbreath_xie_2024/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://ericxuchi.github.io/publication/deepbreath_xie_2024/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -347,7 +358,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-378196425" class="chart">&lt;/div>
+&lt;div id="chart-835741296" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -356,7 +367,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-378196425', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-835741296', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
