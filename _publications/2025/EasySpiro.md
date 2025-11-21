@@ -19,6 +19,6 @@ authors:
 - Qian Zhang
 
 links:
-  # Paper: https://dl.acm.org/doi/10.1145/3729472
+  Paper: https://dl.acm.org/doi/10.1145/3729472
   PDF: /assets/files/EasySpiro.pdf
 ---
