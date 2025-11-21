@@ -19,7 +19,7 @@ authors:
 -  Shifang Yang
 
 links:
-  MedRxiv: https://www.medrxiv.org/content/10.1101/2025.06.28.25330256v1
   Nature: https://www.nature.com/articles/s41746-025-02086-z
+  MedRxiv: https://www.medrxiv.org/content/10.1101/2025.06.28.25330256v1
   PDF: /assets/files/AECOPDector.pdf
 ---
